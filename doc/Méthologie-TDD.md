@@ -3,7 +3,7 @@
 Le TDD → Test driven development _(Developpement par les tests)_
 
 Etape :
- 1) Ecrire le test d'un fonctionnalité
+ 1) Ecrire le test d'une fonctionnalité
  2) Verrifier le test
  3) Implementé la fonctionnalité
  4) Verrifier le test
