@@ -1,0 +1,17 @@
+{
+  "name": "demo_test_01",
+  "version": "1.0.0",
+  "description": "Demo d'implementation de test unitaire",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TDD",
+    "Testing",
+    "TFTIC"
+  ],
+  "author": "Aurélien",
+  "license": "ISC"
+}
